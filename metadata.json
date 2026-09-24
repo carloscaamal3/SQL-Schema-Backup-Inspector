@@ -1,0 +1,6 @@
+{
+  "name": "SQL Schema & Backup Inspector",
+  "description": "Herramienta experta de análisis de respaldos SQL, visualización de registros con filtrado temporal y multidimensional, e inspector de esquemas y generador de consultas para producción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
